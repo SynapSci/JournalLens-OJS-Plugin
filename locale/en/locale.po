@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.generic.journalLens.displayName"
+msgstr "JournalLens Credibility Badge"
+
+msgid "plugins.generic.journalLens.description"
+msgstr "Shows this journal's JournalLens Credibility Score in the page footer and/or the sidebar. The score appears only on the journal's registered websites; readers can check any badge on JournalLens. The journal is identified by its online or print ISSN."
+
+msgid "plugins.generic.journalLens.settings.baseUrl"
+msgstr "JournalLens address"
+
+msgid "plugins.generic.journalLens.settings.baseUrlDescription"
+msgstr "Leave the default (https://journallens.info) unless JournalLens support asks you to change it. Must start with https://."
+
+msgid "plugins.generic.journalLens.settings.baseUrlInvalid"
+msgstr "Enter a valid https:// address."
+
+msgid "plugins.generic.journalLens.settings.placement"
+msgstr "Placement"
+
+msgid "plugins.generic.journalLens.settings.placementDescription"
+msgstr "The badge can also be shown in the sidebar: add \"JournalLens Credibility Badge (sidebar)\" under Website > Appearance > Setup > Sidebar Management."
+
+msgid "plugins.generic.journalLens.settings.showInFooter"
+msgstr "Show the badge in the page footer"
+
+msgid "plugins.generic.journalLens.badge.alt"
+msgstr "JournalLens Credibility Score"
+
+msgid "plugins.generic.journalLens.badge.linkTitle"
+msgstr "Check this journal's badge on JournalLens"
+
+msgid "plugins.generic.journalLens.block.displayName"
+msgstr "JournalLens Credibility Badge (sidebar)"
+
+msgid "plugins.generic.journalLens.block.description"
+msgstr "Sidebar block showing this journal's JournalLens Credibility Score."
+
+msgid "plugins.generic.journalLens.block.title"
+msgstr "JournalLens"

@@ -1,0 +1,25 @@
+/* JournalLens credibility badge. The pill itself is an SVG served by JournalLens. */
+.journallens-badge {
+	margin: 1rem;
+	text-align: center;
+	line-height: 0;
+}
+.journallens-badge__link {
+	display: inline-block;
+	border-radius: 14px;
+}
+.journallens-badge__link:focus-visible {
+	outline: 2px solid #4f46e5;
+	outline-offset: 2px;
+}
+.journallens-badge__img {
+	height: 28px;
+	width: auto;
+	max-width: 100%;
+	border: 0;
+}
+/* Sidebar block */
+.block_journallens .journallens-badge {
+	margin: 0;
+	text-align: left;
+}

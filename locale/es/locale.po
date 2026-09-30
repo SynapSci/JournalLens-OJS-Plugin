@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.generic.journalLens.displayName"
+msgstr "Insignia de credibilidad de JournalLens"
+
+msgid "plugins.generic.journalLens.description"
+msgstr "Muestra la puntuación de credibilidad de JournalLens de esta revista en el pie de página y/o en la barra lateral. La puntuación solo aparece en los sitios web registrados de la revista; los lectores pueden comprobar cualquier insignia en JournalLens. La revista se identifica por su ISSN electrónico o impreso."
+
+msgid "plugins.generic.journalLens.settings.baseUrl"
+msgstr "Dirección de JournalLens"
+
+msgid "plugins.generic.journalLens.settings.baseUrlDescription"
+msgstr "Mantenga el valor predeterminado (https://journallens.info) salvo que el soporte de JournalLens le indique cambiarlo. Debe comenzar con https://."
+
+msgid "plugins.generic.journalLens.settings.baseUrlInvalid"
+msgstr "Introduzca una dirección https:// válida."
+
+msgid "plugins.generic.journalLens.settings.placement"
+msgstr "Ubicación"
+
+msgid "plugins.generic.journalLens.settings.placementDescription"
+msgstr "La insignia también puede mostrarse en la barra lateral: añada \"Insignia de credibilidad de JournalLens (barra lateral)\" en Sitio web > Apariencia > Configuración > Gestión de la barra lateral."
+
+msgid "plugins.generic.journalLens.settings.showInFooter"
+msgstr "Mostrar la insignia en el pie de página"
+
+msgid "plugins.generic.journalLens.badge.alt"
+msgstr "Puntuación de credibilidad de JournalLens"
+
+msgid "plugins.generic.journalLens.badge.linkTitle"
+msgstr "Comprobar la insignia de esta revista en JournalLens"
+
+msgid "plugins.generic.journalLens.block.displayName"
+msgstr "Insignia de credibilidad de JournalLens (barra lateral)"
+
+msgid "plugins.generic.journalLens.block.description"
+msgstr "Bloque de barra lateral que muestra la puntuación de credibilidad de JournalLens de esta revista."
+
+msgid "plugins.generic.journalLens.block.title"
+msgstr "JournalLens"

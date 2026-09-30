@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.generic.journalLens.displayName"
+msgstr "JournalLens trovärdighetsmärke"
+
+msgid "plugins.generic.journalLens.description"
+msgstr "Visar tidskriftens trovärdighetspoäng från JournalLens i sidfoten och/eller sidopanelen. Poängen visas bara på tidskriftens registrerade webbplatser; läsare kan kontrollera alla märken på JournalLens. Tidskriften identifieras med sitt elektroniska eller tryckta ISSN."
+
+msgid "plugins.generic.journalLens.settings.baseUrl"
+msgstr "JournalLens-adress"
+
+msgid "plugins.generic.journalLens.settings.baseUrlDescription"
+msgstr "Behåll standardvärdet (https://journallens.info) om inte JournalLens support ber dig ändra det. Måste börja med https://."
+
+msgid "plugins.generic.journalLens.settings.baseUrlInvalid"
+msgstr "Ange en giltig https://-adress."
+
+msgid "plugins.generic.journalLens.settings.placement"
+msgstr "Placering"
+
+msgid "plugins.generic.journalLens.settings.placementDescription"
+msgstr "Märket kan även visas i sidopanelen: lägg till \"JournalLens trovärdighetsmärke (sidopanel)\" under Webbplats > Utseende > Inställningar > Hantering av sidopanel."
+
+msgid "plugins.generic.journalLens.settings.showInFooter"
+msgstr "Visa märket i sidfoten"
+
+msgid "plugins.generic.journalLens.badge.alt"
+msgstr "JournalLens trovärdighetspoäng"
+
+msgid "plugins.generic.journalLens.badge.linkTitle"
+msgstr "Kontrollera tidskriftens märke på JournalLens"
+
+msgid "plugins.generic.journalLens.block.displayName"
+msgstr "JournalLens trovärdighetsmärke (sidopanel)"
+
+msgid "plugins.generic.journalLens.block.description"
+msgstr "Block i sidopanelen som visar tidskriftens trovärdighetspoäng från JournalLens."
+
+msgid "plugins.generic.journalLens.block.title"
+msgstr "JournalLens"
